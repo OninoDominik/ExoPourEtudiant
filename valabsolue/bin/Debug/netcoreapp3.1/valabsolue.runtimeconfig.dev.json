@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\grobe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\grobe\\.nuget\\packages"
+    ]
+  }
+}

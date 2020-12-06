@@ -1,0 +1,13 @@
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.exe
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.deps.json
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.runtimeconfig.json
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.runtimeconfig.dev.json
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.dll
+C:\Users\grobe\source\repos\valabsolue\valabsolue\bin\Debug\netcoreapp3.1\valabsolue.pdb
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.csprojAssemblyReference.cache
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.AssemblyInfoInputs.cache
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.AssemblyInfo.cs
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.csproj.CoreCompileInputs.cache
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.dll
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.pdb
+C:\Users\grobe\source\repos\valabsolue\valabsolue\obj\Debug\netcoreapp3.1\valabsolue.genruntimeconfig.cache
