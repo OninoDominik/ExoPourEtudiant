@@ -39,13 +39,13 @@ namespace valabsolue
             Proprio = proprio;
             Montant = montant;
         }
-        public void Transac(Portefeuille autre, decimal valeur, typeTransaction type)
+        public void Transac(Portefeuille autre, decimal valeur, TypeTransaction type)
         {
-           if (type== typeTransaction.credit)
+           if (type== TypeTransaction.credit)
             {
-               TransacCredit(autre, valeur);
+                TransacCredit(autre, valeur);
             }
-            if (type == typeTransaction.debit)
+            if (type == TypeTransaction.debit)
             {
                 TransacDebit(autre, valeur);
             }
@@ -61,7 +61,7 @@ namespace valabsolue
             this.crediter(valeur);
         }
     }
-    public enum typeTransaction
+    public enum TypeTransaction
     {
         credit,
         debit
