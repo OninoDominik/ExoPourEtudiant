@@ -8,7 +8,8 @@ namespace valabsolue
     {
         private double rayon;
 
-        public Cercle2(double rayon, Coordonnes coord) :base(coord)
+        public Cercle2(double rayon, Coordonnes coord) 
+            :base(coord)
         {
             Rayon = rayon;
         }
